@@ -12,7 +12,7 @@ Quiet visual layer for the DeepSeek Harness web client: a dot-matrix backdrop wi
 
 ### 背景：点阵 + 鲸鱼
 
-- 一张 `position: fixed` 的全屏 canvas 贴在 `body` 最前面，`pointer-events: none`、`z-index: 0`；
+- 一张 `position: fixed` 的全屏 canvas 贴在 `body` 最前面，`pointer-events: none`、`z-index: 0`；点阵**只画在聊天区**里（侧栏与标题栏保持干净），这块区域从输入框往上自动解析，面板开合、侧栏收起都会重算；
 - 点阵间距 22px、点半径 1px；
 - 鲸鱼不是另画的图案：**同一片点阵里落在鲸鱼形状内的点**才变深，点的大小完全一样。
   形状取自 `@deepseek-ai/dsh-client-ui-primitives` 导出的 `FISH_LOGO_PATH`（官方鲸鱼路径），
