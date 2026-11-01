@@ -1,0 +1,48 @@
+{
+  "format": 1,
+  "title": {
+    "zh": "AvenYQ 的 Harness 插件",
+    "en": "Harness plugins by AvenYQ"
+  },
+  "description": {
+    "zh": "安静背景与阅读体验相关的 DeepSeek Harness 插件。",
+    "en": "DeepSeek Harness plugins for a quiet backdrop and calmer reading."
+  },
+  "metadata": {
+    "categories": {
+      "appearance": {
+        "title": { "zh": "外观", "en": "Appearance" }
+      }
+    }
+  },
+  "plugins": [
+    {
+      "name": "dsh-quiet",
+      "title": { "zh": "安静海洋", "en": "Quiet Ocean" },
+      "description": {
+        "zh": "灰度字符海洋背景，鲸群在两栏之间游动；对话时生物自然离场并保留侧栏磨砂阅读层，回复文字从模糊到清晰。",
+        "en": "A grey ASCII ocean with whales that swim across the sidebar and chat; creatures drift away during a conversation behind a frosted sidebar, and replies reveal from blur to clear."
+      },
+      "author": "AvenYQ",
+      "homepage": "https://github.com/AvenYQ/dsh-quiet",
+      "repository": {
+        "url": "https://github.com/AvenYQ/dsh-quiet"
+      },
+      "metadata": {
+        "category": "appearance",
+        "keywords": ["ocean", "ascii", "backdrop", "theme", "whale", "streaming"]
+      },
+      "versions": [
+        {
+          "version": "0.1.0",
+          "publishTimestamp": 1793542933,
+          "source": {
+            "type": "git",
+            "url": "https://github.com/AvenYQ/dsh-quiet",
+            "commit": "24a4cde744ab892f5a7747050f6a3d5e641187e7"
+          }
+        }
+      ]
+    }
+  ]
+}
