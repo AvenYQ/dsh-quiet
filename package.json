@@ -1,6 +1,6 @@
 {
   "name": "dsh-quiet",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Quiet dot-matrix backdrop with a swimming DeepSeek whale, plus blur-to-clear streaming text for DeepSeek Harness",
   "type": "module",
   "main": "lib/index.js",
