@@ -26,8 +26,8 @@
         "en": "Quiet Ocean"
       },
       "description": {
-        "zh": "灰度字符海洋背景，鲸群在两栏之间游动；对话时生物自然离场并保留侧栏磨砂阅读层，回复文字从模糊到清晰。",
-        "en": "A grey ASCII ocean with whales that swim across the sidebar and chat; creatures drift away during a conversation behind a frosted sidebar, and replies reveal from blur to clear."
+        "zh": "灰度字符海洋背景，鲸群在两栏之间游动；空白页偶有锤头鲨与长尾鲨路过。对话时生物自然离场并保留侧栏磨砂阅读层，回复文字从模糊到清晰。",
+        "en": "A grey ASCII ocean with whales that swim across the sidebar and chat; the occasional hammerhead or thresher passes through the empty page. Creatures drift away during a conversation behind a frosted sidebar, and replies reveal from blur to clear."
       },
       "author": "AvenYQ",
       "homepage": "https://github.com/AvenYQ/dsh-quiet",
@@ -47,12 +47,12 @@
       },
       "versions": [
         {
-          "version": "0.2.3",
-          "publishTimestamp": 1793602078,
+          "version": "0.3.0",
+          "publishTimestamp": 1793610520,
           "source": {
             "type": "git",
             "url": "https://github.com/AvenYQ/dsh-quiet",
-            "commit": "639fd0e8f3623704ece9746f989012e9aa3574a3"
+            "commit": "b706a3c7be1ec18426da56ccefdd0ee02c606e6f"
           }
         }
       ]
