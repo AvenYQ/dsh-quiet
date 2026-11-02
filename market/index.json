@@ -47,12 +47,12 @@
       },
       "versions": [
         {
-          "version": "0.2.0",
-          "publishTimestamp": 1793555220,
+          "version": "0.2.1",
+          "publishTimestamp": 1793579854,
           "source": {
             "type": "git",
             "url": "https://github.com/AvenYQ/dsh-quiet",
-            "commit": "e8580dfabdfb0dbd8319c0d046c5b23cb5c795ee"
+            "commit": "6ddddac7d3b9d4fe2bb1ad93bd5f9e8f8525302f"
           }
         }
       ]
